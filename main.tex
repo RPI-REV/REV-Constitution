@@ -1,18 +1,27 @@
-\newcommand{\version}{0.0.1}
+\documentclass[date, maintoc, notoc]{combine}
 
-\input{preamble}
+\title{Constitution and By-Laws of Rensselaer Electric Vehicle}
+\author{Ryan Delaney \\ Paul Blejwas}
+\date{\today}
 
 \begin{document}
 
-\input{title}
-\input{purpose}
-\input{definitions}
-\input{membership}
-\input{roles}
-
-\appendix
+\pagestyle{combine}
+\maketitle
 \newpage
+\tableofcontents
+\clearpage
 
-\input{changes}
+\section{Introduction}
+\label{intro}
+
+The following document contains the Constitution and By-Laws governing Rensselaer Electric Vehicle...
+
+\begin{papers}
+\coltoctitle{Constitution}
+\import{constitution/main}
+\end{papers}
+\clearpage
+
 
 \end{document}
