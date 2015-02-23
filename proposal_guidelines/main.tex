@@ -12,16 +12,16 @@
 \tableofcontents
 \newpage
 
-\input{proposal_guidelines/proposals}
-\input{proposal_guidelines/voting}
-\input{proposal_guidelines/leads_meetings}
+\InputIfFileExists{proposals}{}{\input{proposal_guidelines/proposals}}
+\InputIfFileExists{voting}{}{\input{proposal_guidelines/voting}}
+\InputIfFileExists{leads_meetings}{}{\input{proposal_guidelines/leads_meetings}}
 
 \appendix
 
 \newpage
-\input{proposal_guidelines/allowed_items}
+\InputIfFileExists{allowed_items}{}{\input{proposal_guidelines/allowed_items}}
 
 \newpage
-\input{proposal_guidelines/changes}
+\InputIfFileExists{changes}{}{\input{proposal_guidelines/changes}}
 
 \end{document}

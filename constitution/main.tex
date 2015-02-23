@@ -12,14 +12,16 @@
 \tableofcontents
 \newpage
 
-\input{constitution/purpose}
-\input{constitution/definitions}
-\input{constitution/membership}
-\input{constitution/roles}
+
+
+\InputIfFileExists{purpose}{}{\input{consitution/purpose}}
+\InputIfFileExists{definitions}{}{\input{consitution/definitions}}
+\InputIfFileExists{membership}{}{\input{consitution/membership}}
+\InputIfFileExists{roles}{}{\input{consitution/roles}}
 
 \appendix
 
 \newpage
-\input{constitution/changes}
+\InputIfFileExists{changes}{}{\input{consitution/changes}}
 
 \end{document}
