@@ -1,18 +1,25 @@
-\newcommand{\version}{0.0.1}
+\newcommand{\constitutionversion}{0.0.1}
 
-\input{preamble}
+\documentclass{article}
+
+\title{REV Constitution \\\normalsize Version \constitutionversion}
+\author{Ryan Delaney \\ Paul Blejwas}
+\date{\today}
 
 \begin{document}
-
-\input{title}
-\input{purpose}
-\input{definitions}
-\input{membership}
-\input{roles}
-
-\appendix
+\maketitle
+\newpage
+\tableofcontents
 \newpage
 
-\input{changes}
+\input{constitution/purpose}
+\input{constitution/definitions}
+\input{constitution/membership}
+\input{constitution/roles}
+
+\appendix
+
+\newpage
+\input{constitution/changes}
 
 \end{document}
