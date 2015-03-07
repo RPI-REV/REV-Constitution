@@ -1,0 +1,24 @@
+\newcommand{\bylawsversion}{0.0.3}
+
+\documentclass{article}
+
+\title{REV Bylaws \\\normalsize Version \bylawsversion}
+\author{Paul Blejwas \\ Ryan Delaney}
+\date{\today}
+
+\begin{document}
+\maketitle
+\newpage
+\tableofcontents
+\newpage
+
+\InputIfFileExists{bylaws/leads_meetings}{}{\input{leads_meetings}}
+\InputIfFileExists{bylaws/proposals}{}{\input{proposals}}
+\InputIfFileExists{bylaws/ratification}{}{\input{ratification}}
+
+\appendix
+
+\newpage
+\InputIfFileExists{bylaws/allowed_items}{}{\input{allowed_items}}
+
+\end{document}

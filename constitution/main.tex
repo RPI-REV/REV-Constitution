@@ -1,9 +1,9 @@
-\newcommand{\constitutionversion}{0.0.1}
+\newcommand{\constitutionversion}{0.0.3}
 
 \documentclass{article}
 
 \title{REV Constitution \\\normalsize Version \constitutionversion}
-\author{Ryan Delaney \\ Paul Blejwas}
+\author{Paul Blejwas \\ Ryan Delaney}
 \date{\today}
 
 \begin{document}
@@ -18,5 +18,7 @@
 \InputIfFileExists{constitution/definitions}{}{\input{definitions}}
 \InputIfFileExists{constitution/membership}{}{\input{membership}}
 \InputIfFileExists{constitution/roles}{}{\input{roles}}
+\InputIfFileExists{constitution/impeachment}{}{\input{impeachment}}
+\InputIfFileExists{constitution/ratification}{}{\input{ratification}}
 
 \end{document}
