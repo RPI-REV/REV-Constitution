@@ -2,6 +2,8 @@
 
 \documentclass{article}
 
+\usepackage{amsmath}
+
 \title{REV Constitution \\\normalsize Version \constitutionversion}
 \author{Paul Blejwas \\ Ryan Delaney}
 \date{\today}
@@ -20,5 +22,9 @@
 \InputIfFileExists{constitution/roles}{}{\input{roles}}
 \InputIfFileExists{constitution/impeachment}{}{\input{impeachment}}
 \InputIfFileExists{constitution/ratification}{}{\input{ratification}}
+
+\appendix
+\newpage
+\InputIfFileExists{constitution/constitution_semver}{}{\input{constitution_semver}}
 
 \end{document}
