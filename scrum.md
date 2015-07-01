@@ -52,4 +52,32 @@ Situations like these often create issues where significant portions of work hav
 redone, or future work must deviate from the plan. In these scenarios, our team hinders 
 itself from delivering a product effectively.
 
+#### Inspection
+
+> Scrum users must frequently inspect Scrum artifacts and progress toward a 
+> Sprint Goal to detect undesirable variances...  Inspections are most beneficial 
+> when diligently performed by skilled inspectors at the point of work.
+>
+> [Scrum Guide][scrumguide]
+
+As a team, we have always prided ourselves upon the fact that _we_ design our cars. 
+Unfortunately, in the past few years our indepences has become one of our greatest downfalls.
+Facing the facts, we as a team have failed at keeping our own work to a certain quality.
+It is time we begin to act as our own QA team, and leave our blind faith in our members behind.
+Scrum emphasizes incremental inspection of our own work, and hollding ourselves responsible for it.
+Properly implmenting this will require a few factors, namely _peer design review_, and _testing_.
+
+#### Adaptation
+
+> If an inspector determines that one or more aspects of a process deviate outside acceptable limits, 
+> and that the resulting product will be unacceptable, the process or the material being processed 
+> must be adjusted.
+> 
+> [Scrum Guide][scrumguide]
+
+The REV of 2014-2015 was a perfect example of failing in plain sight. Plans changed quickly, and 
+desicions for the product were not made by the right people, causing issues to propogate across the 
+team, resulting in a half-baked product. There is an urgent need for centeral mangement of the 
+product on the team, and scrum so elegently incorperates it.
+
 [scrumguide]: http://www.scrumguides.org/scrum-guide.html "Scrum Guide"
