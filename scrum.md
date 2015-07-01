@@ -80,4 +80,78 @@ desicions for the product were not made by the right people, causing issues to p
 team, resulting in a half-baked product. There is an urgent need for centeral mangement of the 
 product on the team, and scrum so elegently incorperates it.
 
+### The Scrum Team
+
+> The Scrum Team consists of a Product Owner, the Development Team, and a Scrum Master. 
+> Scrum Teams are self-organizing and cross-functional. Self-organizing teams choose how best 
+> to accomplish their work, rather than being directed by others outside the team.
+> 
+> [Scrum Guide][scrumguide]
+
+These positions may be shared across teams, for example an Electronics Team could share a 
+Scrum Master with a Drivetrain Team.
+
+#### The Product Owner
+
+> The Product Owner is the sole person responsible for managing the Product Backlog.
+>
+> Product Backlog management includes:
+> - Clearly expressing Product Backlog items;
+> - Ordering the items in the Product Backlog to best achieve goals and missions;
+> - Optimizing the value of the work the Development Team performs;
+> - Ensuring that the Product Backlog is visible, transparent, and clear to all, and shows 
+>   what the Scrum Team will work on next; and,
+> - Ensuring the Development Team understands items in the Product Backlog to the level needed.
+>
+> The Product Owner may do the above work, or have the Development Team do it. However, 
+> the Product Owner remains accountable.
+> 
+> The Product Owner is one person, not a committee. The Product Owner may represent the desires 
+> of a committee in the Product Backlog, but those wanting to change a Product Backlog item’s 
+> priority must address the Product Owner.
+>
+> [Scrum Guide][scrumguide]
+
+The Product Owner is the fearless leader of what goes into the product. It is their sole desicion 
+on what the final product turns out to be. There may be a lot of influences on the desicions, but
+ultimately the power lies in this person. This ties into the Adaption pillar, as well as REV's
+third problem.
+
+#### The Scrum Master
+
+The Scrum Master is a servant-leader for the Scrum Team. The Scrum Master helps those outside the Scrum Team understand which of their interactions with the Scrum Team are helpful and which aren’t. The Scrum Master helps everyone change these interactions to maximize the value created by the Scrum Team.
+
+> ##### Scrum Master Service to the Product Owner
+> The Scrum Master serves the Product Owner in several ways, including:
+> - Finding techniques for effective Product Backlog management;
+> - Helping the Scrum Team understand the need for clear and concise Product Backlog items;
+> - Understanding product planning in an empirical environment;
+> - Ensuring the Product Owner knows how to arrange the Product Backlog to maximize value;
+> - Understanding and practicing agility; and,
+> - Facilitating Scrum events as requested or needed.
+>
+> ##### Scrum Master Service to the Development Team
+> The Scrum Master serves the Development Team in several ways, including:
+> - Coaching the Development Team in self-organization and cross-functionality;
+> - Helping the Development Team to create high-value products;
+> - Removing impediments to the Development Team’s progress;
+> - Facilitating Scrum events as requested or needed; and,
+> - Coaching the Development Team in organizational environments in which Scrum is not yet fully adopted and understood.
+>
+> ##### Scrum Master Service to the Organization
+> The Scrum Master serves the organization in several ways, including:
+> - Leading and coaching the organization in its Scrum adoption;
+> - Planning Scrum implementations within the organization;
+> - Helping employees and stakeholders understand and enact Scrum and empirical product development;
+> - Causing change that increases the productivity of the Scrum Team; and,
+> - Working with other Scrum Masters to increase the effectiveness of the application of Scrum in the organization.
+>
+> [Scrum Guide][scrumguide]
+
+Together with the Product Owner, these two roles can be seen as the breakup of our current Project
+Manager. The Scrum Master makes sure we stay on track, and the Product Owner helps us accomplish 
+our goals. These roles are both __non-technical__. It is important the distiction is made, because 
+the development process is meant to be left to the Development Team to allow for maximum creativity and
+freedom to apply new ideas, as well as provide a speration of ideas and implementation.
+
 [scrumguide]: http://www.scrumguides.org/scrum-guide.html "Scrum Guide"
