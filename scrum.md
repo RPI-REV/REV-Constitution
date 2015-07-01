@@ -163,4 +163,16 @@ and left the rest to the System Lead. Altough this isn't a bad idea, it disagree
 major ideas of scrum is that it must be used in its entirety, so adopting scrum would probably spell an
 end to the idea of Lead-Assistant Lead rule.
 
+## REV & Scrum
+
+### Integration
+
+Integrating scrum into REV will take a considerable amount of work. One of the most controversial
+tasks is the mapping of our current Officers and Leads to new positions under the framework. The 
+ideas in this section will probably be heavily debated, but whatever.
+
+#### The Project Manager
+
+
+
 [scrumguide]: http://www.scrumguides.org/scrum-guide.html "Scrum Guide"
