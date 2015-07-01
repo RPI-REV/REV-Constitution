@@ -154,4 +154,13 @@ our goals. These roles are both __non-technical__. It is important the distictio
 the development process is meant to be left to the Development Team to allow for maximum creativity and
 freedom to apply new ideas, as well as provide a speration of ideas and implementation.
 
+#### The Developent Team
+
+The Development Team consists of the rest of the Scrum Team. As mentioned before, these teams are
+_self-organizing_. This means the Scrum Master and Product Owner do not have a say in how they operate.
+In the past, REV has never operated like this. We ave always enforced a somewhat strict model on Systems, 
+and left the rest to the System Lead. Altough this isn't a bad idea, it disagrees with scrum. One of the 
+major ideas of scrum is that it must be used in its entirety, so adopting scrum would probably spell an
+end to the idea of Lead-Assistant Lead rule.
+
 [scrumguide]: http://www.scrumguides.org/scrum-guide.html "Scrum Guide"
