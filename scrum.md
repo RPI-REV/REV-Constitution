@@ -18,3 +18,38 @@ integrated into the REV workflow to facilitate scrum and the new
 agile development tequiniques we adopt.
 
 ## Scrum
+
+### Idealology
+
+> Scrum is a framework for developing and sustaining complex products...
+>
+> The Scrum framework consists of Scrum Teams and their associated roles, events, artifacts, 
+> and rules. Each component within > the framework serves a specific purpose and is essential
+> to Scrum’s success and usage.
+>
+> [Scrum Guide][scrumguide]
+
+Scrum hold itself to three "pillars"
+
+- Transparency
+- Inspection
+- Adaptation
+
+Each of these pillars defeats one the problems REV has had.
+
+#### Transparency
+
+> Significant aspects of the process must be visible to those responsible for the outcome. 
+> Transparency requires those aspects be defined by a common standard so observers share 
+> a common understanding of what is being seen.
+>
+> [Scrum Guide][scrumguide]
+
+This addresses the issue of communication in REV. There have been many times where the average
+member may have been doing some small, fairly trivial task _without_ asking anyone else 
+about how it interfaces with the rest of the product, or even it's final application!
+Situations like these often create issues where significant portions of work have to be
+redone, or future work must deviate from the plan. In these scenarios, our team hinders 
+itself from delivering a product effectively.
+
+[scrumguide]: http://www.scrumguides.org/scrum-guide.html "Scrum Guide"
