@@ -207,7 +207,7 @@ Leads will remain as is, one per team. The reason for keeping leads is that they
 and can provide central knowledge for the team. The difference here is that it will not be the Lead's job 
 to manage that team, but instead the job of the team itself. The Lead will still do huge amounts of work, 
 as well as help others with their tasks. It is not their job to delegate tasks though, as members should take 
-the tasks themselves, emphasizing how the team is self-organizing.
+the tasks themselves, emphasizing how the team is self-organizing. Leads will be appointed by a vote of Officers.
 
 #### Assistant Leads
 
@@ -215,5 +215,20 @@ This is kind of a grey area, but the Assistant Lead will no longer formally exis
 the correct course because it will emphasize how the teams self-organize. The Lead may feel free to 
 designate one or more persons as Assistant Leads, but they will not exist as far as the Constitution
 is concerned.
+
+#### Officers
+
+A variable number of Officers in a club isn't a good thing. The management should be a fairy stable 
+place. For this reason, the position of Scrum Master will be made an officer. This is done because 
+it gives a view of how the projects are going for the current leadership, it puts someone on the project-facing
+side of REV into the desicion making process for Leads, and give balance for elected officals, reducing the 
+number of appointments made.
+
+The role of Product Owner will _not_ be an Officer because there are a varible number of them, and if a new project
+is started mid-year, and new Officer should not come on board.
+
+#### Leadership
+
+The Leadership will be the President, Vice President, Project Manager(s), and Leads.
 
 [scrumguide]: http://www.scrumguides.org/scrum-guide.html "Scrum Guide"
