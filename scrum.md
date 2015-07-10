@@ -19,6 +19,8 @@ agile development tequiniques we adopt.
 
 ## Scrum
 
+Please read the [Scrum Guide][scrumguide] before this section.
+
 ### Idealology
 
 > Scrum is a framework for developing and sustaining complex products...
@@ -158,14 +160,21 @@ freedom to apply new ideas, as well as provide a speration of ideas and implemen
 
 The Development Team consists of the rest of the Scrum Team. As mentioned before, these teams are
 _self-organizing_. This means the Scrum Master and Product Owner do not have a say in how they operate.
-In the past, REV has never operated like this. We ave always enforced a somewhat strict model on Systems, 
+In the past, REV has never operated like this. We have always enforced a somewhat strict model on Systems, 
 and left the rest to the System Lead. Altough this isn't a bad idea, it disagrees with scrum. One of the 
 major ideas of scrum is that it must be used in its entirety, so adopting scrum would probably spell an
 end to the idea of Lead-Assistant Lead rule.
 
 ## REV & Scrum
 
-### Integration
+### Problem with REV's Structure
+
+The main issue with how the REV team is structured is that it is entirely focused on purchasing. 
+The sole reason for leads meeetings in the 2014-2015 year was for purchasing items for the car. 
+There are better ways to structure the team to integrate scrum, and to better represent exactly what we want out
+of the Leads.
+
+### Integrating Scrum
 
 Integrating scrum into REV will take a considerable amount of work. One of the most controversial
 tasks is the mapping of our current Officers and Leads to new positions under the framework. The 
@@ -173,6 +182,38 @@ ideas in this section will probably be heavily debated, but whatever.
 
 #### The Project Manager
 
+REV is a very project-oriented club, as the goal of many members is to learn in the process of our
+projects. In the past, we have only had one project per year. As REV has grown though, our team has
+began taking on two projects per year. A single "Project Manager" for _two_  projects doesn't make sense.
+To effectively manage the project, it should be the sole concern. The idea of two Project Managers has been 
+tossed around, and that fits scrum perfectly. One Product Owner per product. So the traditional role of
+Project Manager would transition to Product Owner, and the amount of Product Owners would vary depending on
+the amount of products. 
 
+The main difference here is that __the Product Owner is not technical__. The Product Owner should not be making
+any technical desicions for the team at all. It is a very important distiction because it lets the team 
+working on the product use what best suits them, rather than what management decides. This marks an important 
+point, because all of REV's Project Managers have been some of the most hands-on members of the team.
+
+#### The Scrum Master
+
+The Scrum Master will be a new role for REV. It is common for a company to share a Scrum Master between teams, 
+because their primary concern isn't the product, but how the teams themselves are functioning. In addition, 
+they can provide a common link across many teams. This role is also non-technical.
+
+#### Leads
+
+Leads will remain as is, one per team. The reason for keeping leads is that they provide a good contact point 
+and can provide central knowledge for the team. The difference here is that it will not be the Lead's job 
+to manage that team, but instead the job of the team itself. The Lead will still do huge amounts of work, 
+as well as help others with their tasks. It is not their job to delegate tasks though, as members should take 
+the tasks themselves, emphasizing how the team is self-organizing.
+
+#### Assistant Leads
+
+This is kind of a grey area, but the Assistant Lead will no longer formally exist. I believe this is 
+the correct course because it will emphasize how the teams self-organize. The Lead may feel free to 
+designate one or more persons as Assistant Leads, but they will not exist as far as the Constitution
+is concerned.
 
 [scrumguide]: http://www.scrumguides.org/scrum-guide.html "Scrum Guide"
