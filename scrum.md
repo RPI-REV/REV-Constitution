@@ -78,9 +78,9 @@ Properly implementing this will require a few factors, namely _peer design revie
 > [Scrum Guide][scrumguide]
 
 The REV of 2014-2015 was a perfect example of failing in plain sight. Plans changed quickly, and 
-desicions for the product were not made by the right people, causing issues to propogate across the 
-team, resulting in a half-baked product. There is an urgent need for centeral mangement of the 
-product on the team, and scrum so elegently incorperates it.
+desicions for the product were not made by the right people, causing issues to propagate across the 
+team, resulting in a half-baked product. There is an urgent need for central management of the 
+product on the team, and scrum so elegantly incorperates it.
 
 ### The Scrum Team
 
