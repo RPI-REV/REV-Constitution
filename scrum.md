@@ -63,11 +63,11 @@ itself from delivering a product effectively.
 > [Scrum Guide][scrumguide]
 
 As a team, we have always prided ourselves upon the fact that _we_ design our cars. 
-Unfortunately, in the past few years our indepences has become one of our greatest downfalls.
+Unfortunately, in the past few years our independence has become one of our greatest downfalls.
 Facing the facts, we as a team have failed at keeping our own work to a certain quality.
 It is time we begin to act as our own QA team, and leave our blind faith in our members behind.
-Scrum emphasizes incremental inspection of our own work, and hollding ourselves responsible for it.
-Properly implmenting this will require a few factors, namely _peer design review_, and _testing_.
+Scrum emphasizes incremental inspection of our own work, and holding ourselves responsible for it.
+Properly implementing this will require a few factors, namely _peer design review_, and _testing_.
 
 #### Adaptation
 
